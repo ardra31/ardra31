@@ -2,5 +2,5 @@
 
 
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning react.js
+- 🔭 Frontend web developer
+- 🌱 I’m currently working on react.js
